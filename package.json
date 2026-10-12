@@ -9,9 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/groq": "^4.0.59",
+    "@ai-sdk/react": "^4.0.140",
+    "@supabase/supabase-js": "^2.117.3",
+    "ai": "^7.0.137",
     "next": "16.4.0",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "react-markdown": "^10.1.0",
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
